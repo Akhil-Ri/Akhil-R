@@ -35,8 +35,8 @@ I am a passionate software developer currently building a strong foundation in f
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<Akhil-Ri>&show_icons=true&theme=visual&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Akhil-Ri>&layout=compact&theme=visual&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Ri&show_icons=true&theme=visual&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Ri&layout=compact&theme=visual&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ I am a passionate software developer currently building a strong foundation in f
 ## 🤝 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/<Akhil Kasaraneni>" target="_blank">
+  <a href="https://linkedin.com/in/Akhil Kasaraneni" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
