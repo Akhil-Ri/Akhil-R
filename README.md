@@ -1,4 +1,4 @@
-# Hi there, I'm <Akhil> 👋
+# Hi there, I'm Akhil 👋
 
 ### 🚀 Aspiring Full-Stack Developer | Frontend & Data Structures Enthusiast
 
