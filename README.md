@@ -44,7 +44,7 @@ I am a passionate software developer currently building a strong foundation in f
 ## 🤝 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/Akhil Kasaraneni" target="_blank">
+  <a href="https://linkedin.com/in/akhil-kasaraneni-2921b4380" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
