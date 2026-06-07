@@ -35,8 +35,8 @@ I am a passionate software developer currently building a strong foundation in f
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Ri&show_icons=true&theme=visual&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Ri&layout=compact&theme=visual&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=(https://github.com/Akhil-Ri)&show_icons=true&theme=visual&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Akhil-Ri&layout=compact&theme=visual&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
